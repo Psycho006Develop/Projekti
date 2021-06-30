@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Dobrodosli na moj sajt!
 
-You can use the [editor on GitHub](https://github.com/Psycho006Develop/Psycho006-Develop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ovdje cu kaciti svoje projekte koje cu raditi u razlicitim jezicima skripte!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
