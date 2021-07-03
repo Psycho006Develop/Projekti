@@ -2,7 +2,7 @@
 
 Na mom Github profilu cu kaciti svoje projekte koje cu raditi u razlicitim jezicima skripte!
 
-Sve moje projekte pronadjite ovdje: https://github.com/Psycho006Develop
+Link: https://github.com/Psycho006Develop/pc-cleaner
 
 ### Najnoviji Projekt 2021-PC Cleaner
 
