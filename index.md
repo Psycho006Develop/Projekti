@@ -2,4 +2,4 @@
 
 Na Githubu ce biti najnovija lista fixanih/izbacenih i dodanih stvari
 
-#https://discord.gg/6mVbVkQsEe#Discord
+#Discord: https://discord.gg/6mVbVkQsEe
