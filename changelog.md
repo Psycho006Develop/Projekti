@@ -1,3 +1,3 @@
-# Update Log - Matrix Gaming
+# Update Log - Ime Servera
 
 # Uskoro!
